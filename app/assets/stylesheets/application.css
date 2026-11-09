@@ -1,4 +1,17 @@
-/*
+body {
+  background-color: #f5f7fa;
+}
+
+h1 {
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 1.75rem;
+}
+
+.btn-primary {
+  background-color: #ff6b35;
+  border-color: #ff6b35;
+}/*
  * This is a manifest file that'll be compiled into application.css.
  *
  * With Propshaft, assets are served efficiently without preprocessing steps. You can still include
